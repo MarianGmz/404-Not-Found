@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Trocchi&display=swap');
+
+
+html,body{
+    height: 100%;
+    
+    
+    
+}
+header h1{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #333333;
+
+}
+main{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+.imagen{
+    width: fit-content;
+}
+img{
+    width: 100%;
+    height: 447.43px;
+}
+.info{
+    width: 30%;
+}
+.info h2{
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3.9rem;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    color: #333333;
+}
+.info p{
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    color: #333333;
+}
+.info button{
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 0.9rem;
+    line-height: 21px;
+    position: relative;
+    left: 0;
+
+
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 216px;
+    height: 68px;
+    background: #333333;
+}
+.info button:hover{
+    cursor: pointer;
+    transform: scale(1.04);
+    transition: transform .3s;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    text-align: center;
+
+    color: #BDBDBD;
+
+}
