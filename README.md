@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://mariangmz.github.io/404-Not-Found/">
+    <a href="https://mariangmz.github.io/404-Not-Found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://github.com/MarianGmz/404-Not-Found.git">
+    <a href="https://github.com/MarianGmz/404-Not-Found.git">
       Solution
     </a>
     <span> | </span>
